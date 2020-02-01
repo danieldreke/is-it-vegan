@@ -1,5 +1,5 @@
 # Is It Animal Friendly?
-Scan a product's barcode to know if it is animal friendly.
+Scan a product's barcode to know if it is animal friendly (no milk/dairy, no egg).
 
 ![vegyesno](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Veg_NonVeg_SVG.svg/216px-Veg_NonVeg_SVG.svg.png)
 
