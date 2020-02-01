@@ -1,5 +1,8 @@
 # Is It Animal Friendly?
-Just scan a product's barcode to know if it is animal friendly.
+App idea: Just scan a product's barcode to know if it is animal friendly.
+
+## Development Status
+Repository has been created on Sat 01 Feb 2020. Coding hasn't started yet.
 
 ## Inspiration
 - India's mandatory labeling mark to clarify if a food product is vegetarian
